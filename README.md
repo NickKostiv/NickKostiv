@@ -26,17 +26,34 @@ Hey there!🖐 I'm an enthusiastic and experienced software developer with a rob
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="сenter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" />
 </p>
+
 
 ---
 
@@ -44,11 +61,10 @@ Hey there!🖐 I'm an enthusiastic and experienced software developer with a rob
 
 | Project | Description | Preview |
 |--------|-------------|---------|
-| **WoodLab** | Next.js + Supabase admin panel, gallery & contact form | ![Furniture Website](https://www.upwork.com/att/download/portfolio/persons/uid/1663895959089111040/profile/projects/files/af15d914-7a5d-4103-b6a7-b372e1b9081f) |
-| **Meditation App** | Chakra quiz, % calc, animations & stateful cookies | ![Meditation App](https://www.upwork.com/att/download/portfolio/persons/uid/1663895959089111040/profile/projects/files/2be8e177-6606-481f-af08-3d6f43507d53) |
-| **Myocompanion** | A mobile app with Log In, Sign Up, Reset Password, and Profile, where exercises are received based on those assigned by the therapist in the admin panel on the website| ![Myocompanion]([https://www.upwork.com/att/download/portfolio/persons/uid/1663895959089111040/profile/projects/files/2be8e177-6606-481f-af08-3d6f43507d53]) |
-| **Meditation App** | Chakra quiz, % calc, animations & stateful cookies | ![Meditation App](https://mikekostivv.web.app/assets/lamp-e115a649.png) |
 | **Lamp** | Lamp - Money Transfer Service | ![Lamp](	https://mikekostivv.web.app/assets/lamp-e115a649.png) |
+| **WoodLab** | Next.js + Supabase admin panel, gallery & contact form | ![Furniture Website](https://www.upwork.com/att/download/portfolio/persons/uid/1663895959089111040/profile/projects/files/af15d914-7a5d-4103-b6a7-b372e1b9081f) |
+| **Meditation App** | Chakra quiz, % calc, animations & stateful cookies | ![Meditation App](https://mikekostivv.web.app/assets/lamp-e115a649.png) |
+| **Myocompanion** | A mobile app with Log In, Sign Up, Reset Password, and Profile, where exercises are received based on those assigned by the therapist in the admin panel on the website| ![Myocompanion]([https://www.upwork.com/att/download/portfolio/persons/uid/1663895959089111040/profile/projects/files/2be8e177-6606-481f-af08-3d6f43507d53]) |
 | **SMMHUB** | SMMHUB - Marketing Platform| ![SMMHUB](https://mikekostivv.web.app/assets/smmhub-49fe2990.png) |
 
 
