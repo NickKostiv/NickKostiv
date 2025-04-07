@@ -61,7 +61,7 @@ Hey there!🖐 I'm an enthusiastic and experienced software developer with a rob
 |--------|-------------|---------|
 | **Lamp** | Lamp - Money Transfer Service | ![Lamp](	https://mikekostivv.web.app/assets/lamp-e115a649.png) |
 | **WoodLab** | Next.js + Supabase admin panel, gallery & contact form | ![Furniture Website](https://mikekostivv.web.app/assets/wood-lab-1cc61077.png) |
-| **Meditation App** | Chakra quiz, % calc, animations & stateful cookies | ![Meditation App]([https://mikekostivv.web.app/assets/lamp-e115a649.png](https://mikekostivv.web.app/assets/slowdive-a0b97c64.png)) |
+| **Meditation App** | Chakra quiz, % calc, animations & stateful cookies | ![Meditation App](https://mikekostivv.web.app/assets/slowdive-a0b97c64.png) |
 | **Myocompanion** | A mobile app with Log In, Sign Up, Reset Password, and Profile, where exercises are received based on those assigned by the therapist in the admin panel on the website| ![Myocompanion](https://mikekostivv.web.app/assets/MyoCompanion-d519cc2c.png) |
 | **SMMHUB** | SMMHUB - Marketing Platform| ![SMMHUB](https://mikekostivv.web.app/assets/smmhub-49fe2990.png) |
 
