@@ -1,4 +1,6 @@
-![image](https://mikekostivv.web.app/assets/giphy-ad866ee7.gif)
+<div align="center">
+  <img src="https://mikekostivv.web.app/assets/giphy-ad866ee7.gif" alt="image" />
+</div>
 
 <h1 align="center"> 👨‍💻 Nick — Full-Stack Developer</h1>
 
