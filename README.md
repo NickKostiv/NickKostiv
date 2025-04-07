@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d29690b5-ce7c-47a0-bf41-9741e22a23a9)# 👨‍💻 Nick — Full-Stack Developer & Paramedic
+![image](https://mikekostivv.web.app/assets/giphy-ad866ee7.gif)# 👨‍💻 Nick — Front-Stack Developer
 
 **`Code. Care. Create.`**
 
