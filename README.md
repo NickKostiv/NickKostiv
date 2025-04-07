@@ -1,6 +1,6 @@
 ![image](https://mikekostivv.web.app/assets/giphy-ad866ee7.gif)
 
-<p align="center"> 👨‍💻 Nick — Front-Stack Developer</p>
+<h1 align="center"> 👨‍💻 Nick — Front-Stack Developer</h1>
 
 **`Code. Care. Create.`**
 
