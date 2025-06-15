@@ -70,7 +70,6 @@ Hey there!🖐 I'm an enthusiastic and experienced software developer with a rob
 ---
 
 ### 📈 GitHub Stats
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKostiv&show_icons=true&theme=github_dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
