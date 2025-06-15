@@ -72,6 +72,3 @@ Hey there!🖐 I'm an enthusiastic and experienced software developer with a rob
 ### 📈 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-> 💬 **Fun fact:** I’m a paramedic too, so I can literally debug your code *and* your pulse.
