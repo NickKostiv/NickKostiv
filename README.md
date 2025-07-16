@@ -2,7 +2,7 @@
   <img src="https://mikekostivv.web.app/assets/giphy-ad866ee7.gif" alt="image" />
 </div>
 
-<h1 align="center"> 👨‍💻Passionate Front-End Developer with Backend expertise.</h1>
+<h1 align="center"> 👨‍💻Passionate Front-End Developer with Backend expertise</h1>
 
 **Code. Care. Create.**
 
